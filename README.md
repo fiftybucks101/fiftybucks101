@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=noto+sans&color=37A67C&duration=3000&center=true&vCenter=true&lines=Hello,+There!+%F0%9F%91%8B;I+am+Roshan+Tiwari.;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=noto+sans&color=37A67C&duration=3000&center=true&vCenter=true&lines=Hello,+There!+%F0%9F%91%8B;I+am+Roshan+Tiwari.;An+AI+Dreamer.;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -34,4 +34,32 @@
 - 💬 Ask me about ***Python, Machine Learning, DeepLearning, Statistic, NLP***
 
 - 📫 How to reach me **fiftybucks101@gmail.com**
+
+
+
+  ## 📊 &nbsp;GitHub Stats
+  
+  <div align="center">
+    <a href="https://github.com/amulifts">
+    <img width=450 height=170 align="center" alt="amulifts" src="https://github-readme-stats.vercel.app/api?username=amulifts&theme=vue-dark&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/amulifts">
+    <img align="center" alt="amulifts" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amulifts&theme=vue-dark&layout=compact&bg_color=0D1117&hide_border=true&langs_count=10&count_private=true" />
+  </a>
+  </div>
+</div>
+ 
+<div>
+
+## 🔥 &nbsp;Streak Stats
+  
+  <p align="center">
+  <a href="https://github.com/amulifts">
+    <img alt="Roshan Tiwari's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fiftybucks101&fire=pink&theme=vue-dark&background=0D1117&hide_border=true"/>
+  </a>
+  </p>
+
+
+  
+ 
 
