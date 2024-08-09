@@ -12,6 +12,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="position: relative; top: -40px; left: -130px;">
 <br>
 <br>
+<br>
 
 ### Eager to innovate and make impact in:
 * Deep Learning
