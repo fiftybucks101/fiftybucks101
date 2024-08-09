@@ -9,19 +9,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=noto+sans&color=37A67C&duration=3000&center=true&vCenter=true&lines=Hello,+There!+%F0%9F%91%8B;I+am+Roshan+Tiwari.;An+AI+Dreamer!;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h4 align="center">🌱 I'm currently learning <b>Deep Learning & NLP</b></h4>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="position: relative; top: -40px; left: -130px;">
 <br>
-<br>
 
-### Eager to innovate and make impact in:
+### **Eager to innovate and make impact in:**
+* Artificial General Intelligence
+* Robotics
 * Deep Learning
 * Machine Learning
 * Computer vision 
 * Natural Language Processing
 * MLOps
 * Generative AI
+
+  
 
 <h1>
 </h1>
